@@ -14,7 +14,7 @@
     * This is the fundamental of python and very easy to learn. 
     
 * Optional: week 4.
-    * Statistical is useful in data science but it requires more math background. 
+    * Statistics are very useful in data science but it requires more math background. 
     * For the continuity of the study, you can skip week 4 first.
     * But if you want to get the certificate, we can learn week 4 together.
 
