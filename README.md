@@ -4,7 +4,8 @@
 * Install IDE
 * Setup python environment
 * Use Anaconda/Miniconda
-* etc. 
+* Basic of Git
+
 
 ## Module 1: python programming
 * Coursera: https://www.coursera.org/learn/python-data-analysis
@@ -25,3 +26,9 @@
     * all the modules
     * two weeks per one modules
     
+ 
+## Following Modules
+* If you can finish the above modules within 3 months' time and get the certificate for Module 2, 
+please come back to me in person. You will get
+    * A gift from me for your great achievement.
+    * The design of following course which may help you to advance in your career. 
